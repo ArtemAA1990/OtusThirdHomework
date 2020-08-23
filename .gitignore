@@ -1,4 +1,11 @@
-/target/
-/.idea/
-/*.iml
-*.log
+
+!/.idea/
+.idea/.gitignore
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
+otusThirdHomework.iml
+src/main/java/
+target/
+!/logs.log
