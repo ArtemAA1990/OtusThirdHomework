@@ -1,0 +1,55 @@
+2020-08-23 21:20:58,796 INFO YandexMarketCatalogTest [main] Драйвер поднят
+2020-08-23 21:20:59,864 INFO YandexMarketCatalogTest [main] Яндекс Маркет открыт
+2020-08-23 21:21:03,810 INFO YandexMarketCatalogTest [main] Каталог открыт
+2020-08-23 21:21:09,577 INFO YandexMarketCatalogTest [main] Выбран фильтр Samsung
+2020-08-23 21:21:10,066 INFO YandexMarketCatalogTest [main] Выбран фильтр Xiaomi
+2020-08-23 21:21:10,571 INFO YandexMarketCatalogTest [main] Сортировка по цене(от меньшей к большей)
+2020-08-23 21:21:17,630 INFO YandexMarketCatalogTest [main] Лоадер скрылся
+2020-08-23 21:21:17,707 INFO YandexMarketCatalogTest [main] Первый Samsung добавлен в сравнение
+2020-08-23 21:21:17,997 INFO YandexMarketCatalogTest [main] Отобразилась плашка "Товар Смартфон Galaxy добавлен к сравнению"
+2020-08-23 21:21:18,121 INFO YandexMarketCatalogTest [main] Первый Xiaomi добавлен в сравнение
+2020-08-23 21:21:18,505 INFO YandexMarketCatalogTest [main] Отобразилась плашка "Товар Смартфон Redmi добавлен к сравнению"
+2020-08-23 21:21:19,547 INFO YandexMarketCatalogTest [main] Перешли в раздел Сравнение
+2020-08-23 21:21:19,624 INFO YandexMarketCatalogTest [main] В списке товаров 2 позиции
+2020-08-23 21:21:19,793 INFO YandexMarketCatalogTest [main] Нажали на опцию "все характеристики"
+2020-08-23 21:21:19,830 INFO YandexMarketCatalogTest [main] В списке характеристик появилась позиция "Операционная система"
+2020-08-23 21:21:19,942 INFO YandexMarketCatalogTest [main] Нажали на опцию "различающиеся характеристики"
+2020-08-23 21:21:25,001 INFO YandexMarketCatalogTest [main] Позиция "Операционная система" не отображается в списке характеристик
+2020-08-23 21:23:31,131 INFO YandexMarketCatalogTest [main] Драйвер поднят
+2020-08-23 21:23:32,066 INFO YandexMarketCatalogTest [main] Яндекс Маркет открыт
+2020-08-23 21:24:21,810 INFO YandexMarketCatalogTest [main] Драйвер поднят
+2020-08-23 21:24:24,034 INFO YandexMarketCatalogTest [main] Яндекс Маркет открыт
+2020-08-23 21:24:57,705 INFO YandexMarketCatalogTest [main] Драйвер поднят
+2020-08-23 21:24:58,662 INFO YandexMarketCatalogTest [main] Яндекс Маркет открыт
+2020-08-23 21:25:02,086 INFO YandexMarketCatalogTest [main] Каталог открыт
+2020-08-23 21:25:06,864 INFO YandexMarketCatalogTest [main] Выбран фильтр Samsung
+2020-08-23 21:25:07,288 INFO YandexMarketCatalogTest [main] Выбран фильтр Xiaomi
+2020-08-23 21:25:07,686 INFO YandexMarketCatalogTest [main] Сортировка по цене(от меньшей к большей)
+2020-08-23 21:25:14,161 INFO YandexMarketCatalogTest [main] Лоадер скрылся
+2020-08-23 21:25:14,239 INFO YandexMarketCatalogTest [main] Первый Samsung добавлен в сравнение
+2020-08-23 21:25:14,513 INFO YandexMarketCatalogTest [main] Отобразилась плашка "Товар Смартфон Galaxy добавлен к сравнению"
+2020-08-23 21:25:14,642 INFO YandexMarketCatalogTest [main] Первый Xiaomi добавлен в сравнение
+2020-08-23 21:25:14,804 INFO YandexMarketCatalogTest [main] Отобразилась плашка "Товар Смартфон Redmi добавлен к сравнению"
+2020-08-23 21:25:15,842 INFO YandexMarketCatalogTest [main] Перешли в раздел Сравнение
+2020-08-23 21:25:15,884 INFO YandexMarketCatalogTest [main] В списке товаров 2 позиции
+2020-08-23 21:25:16,043 INFO YandexMarketCatalogTest [main] Нажали на опцию "все характеристики"
+2020-08-23 21:25:16,093 INFO YandexMarketCatalogTest [main] В списке характеристик появилась позиция "Операционная система"
+2020-08-23 21:25:16,195 INFO YandexMarketCatalogTest [main] Нажали на опцию "различающиеся характеристики"
+2020-08-23 21:25:21,213 INFO YandexMarketCatalogTest [main] Позиция "Операционная система" не отображается в списке характеристик
+2020-08-23 21:27:30,691 INFO YandexMarketCatalogTest [main] Драйвер поднят
+2020-08-23 21:27:31,653 INFO YandexMarketCatalogTest [main] Открыта страница Яндекс Маркет
+2020-08-23 21:27:35,117 INFO YandexMarketCatalogTest [main] Каталог открыт
+2020-08-23 21:27:40,559 INFO YandexMarketCatalogTest [main] Выбран фильтр Samsung
+2020-08-23 21:27:40,996 INFO YandexMarketCatalogTest [main] Выбран фильтр Xiaomi
+2020-08-23 21:27:41,474 INFO YandexMarketCatalogTest [main] Выбрана сортировка по цене(от меньшей к большей)
+2020-08-23 21:27:48,464 INFO YandexMarketCatalogTest [main] Лоадер скрылся
+2020-08-23 21:27:48,533 INFO YandexMarketCatalogTest [main] Первый Samsung добавлен в сравнение
+2020-08-23 21:27:48,705 INFO YandexMarketCatalogTest [main] Отобразилась плашка "Товар Смартфон Galaxy добавлен к сравнению"
+2020-08-23 21:27:48,819 INFO YandexMarketCatalogTest [main] Первый Xiaomi добавлен в сравнение
+2020-08-23 21:27:49,010 INFO YandexMarketCatalogTest [main] Отобразилась плашка "Товар Смартфон Redmi добавлен к сравнению"
+2020-08-23 21:27:49,991 INFO YandexMarketCatalogTest [main] Перешли в раздел Сравнение
+2020-08-23 21:27:50,028 INFO YandexMarketCatalogTest [main] В списке товаров 2 позиции
+2020-08-23 21:27:50,194 INFO YandexMarketCatalogTest [main] Нажали на опцию "все характеристики"
+2020-08-23 21:27:50,248 INFO YandexMarketCatalogTest [main] В списке характеристик появилась позиция "Операционная система"
+2020-08-23 21:27:50,367 INFO YandexMarketCatalogTest [main] Нажали на опцию "различающиеся характеристики"
+2020-08-23 21:27:55,377 INFO YandexMarketCatalogTest [main] Позиция "Операционная система" не отображается в списке характеристик
